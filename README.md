@@ -1,1 +1,1 @@
-# VulnerabilityCheck
+# VulnCheck
