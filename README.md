@@ -21,30 +21,31 @@
   - Использование потоков для параллельного сканирования, значительно сокращая время выполнения задач на больших диапазонах.
     
 <b> **Настраиваемые параметры** </b>
-  - Возможность установки таймаута для сетевых подключений.
+   - Возможность установки таймаута для сетевых подключений.
   - Гибкое указание целевых IP-адресов/диапазонов и портов через аргументы командной строки.
-  - Интуитивно понятный вывод:
+   - Интуитивно понятный вывод:
   - Четкое и структурированное отображение результатов сканирования в консоли.
 
 <h2> 🛠 Технологический стек </h2>
-  - язык программирования: Python 3.x
+
 <b> **Библиотеки:** </b>
   - socket: для низкоуровневой работы с сетевыми сокетами (TCP/IP соединения).
   - threading: для реализации многопоточности и параллельного выполнения задач.
   - argparse: для парсинга аргументов командной строки.
 
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>👨‍💻 Как ЭТО работает? </h2>
 
+**Клонируйте мой репозиторий**
+<br> bash <br> 
+    git clone https://github.com/твой-логин/python-scanner.git <br>
+    cd python-scanner
+
+**Введите команду для запуска порта**
+  <br> python scanner.py 192.168.1.1
+  
+<br> И наслаждайтесь прекрасным мини-сайтом с стильным пиксельным шрифтом. Попробуйте найти флаг 😉
+
+
+<br> ⚠️ Отказ от ответственности
+<br> Этот инструмент создан исключительно в образовательных целях. Не используйте его для сканирования узлов, на которые у вас нет разрешения владельца. Автор не несет ответственности за неправомерное использование.
